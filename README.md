@@ -1,4 +1,4 @@
-https://github.com/Rakeshmonster/Rakesh-Rawal/tree/main/README.md
+Rakesh-Rawal/README.md
 <h1 align="center">Rakesh Rawal</h1>
 <h3 align="center">Frontend Developer | Nepal</h3>
 
